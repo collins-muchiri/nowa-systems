@@ -1,5 +1,11 @@
 # NOWA - Digital Credits System
 
+*NOWA Systems — civic-tech platform for community empowerment and organizational management; JavaScript.*
+
+![category](https://img.shields.io/badge/category-web-platform-EC4899?style=flat-square) ![language](https://img.shields.io/badge/language-JavaScript-2563EB?style=flat-square) ![maintenance](https://img.shields.io/badge/maintenance-active-16A34A?style=flat-square) ![repo](https://img.shields.io/badge/repo-nowa--systems-111827?style=flat-square)
+
+---
+
 A professional, full-featured website for NOWA (Nakuru Oasis Welfare Association) - a digital credits and transport platform for the Nakuru community in Kenya.
 
 ## 🚀 Features
@@ -281,3 +287,7 @@ For technical support or questions:
 ---
 
 **Built with ❤️ for the Nakuru community**
+
+## Contribution and license
+
+Issues and pull requests are welcome — please open an issue describing the proposed change before submitting substantive work. No license file is present; the work remains under the author's default copyright. Contact the owner for reuse terms.
